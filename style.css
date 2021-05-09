@@ -1,0 +1,49 @@
+body {
+    color: white;
+    background-image: linear-gradient(rgb(113, 150, 235), rgb(234, 169, 243));
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#cam {
+    border: 2px;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    color: rgb(182, 255, 231);
+    font-size: 30px;
+}
+
+#Title1 {
+    font-family: sans-serif;
+    font-size: 75px;
+}
+
+#image1 {
+    border-width: 50px;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+#btn1 {
+    border-width: 2.5px;
+    border-radius: 45px;
+    border-color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(113, 235, 164), rgb(243, 238, 169));
+
+}
+
+#btn2 {
+    border-width: 2.5px;
+    border-radius: 45px;
+    border-color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(235, 113, 113), rgb(169, 189, 243));
+}
